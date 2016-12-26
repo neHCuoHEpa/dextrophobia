@@ -1,0 +1,94 @@
+You can also read the online manual in my website.
+http://chobi-glass.com/Physics_Tank_Maker_manual/index.html
+
+"How to Update"
+
+Please feel free to contact me if you have any questions.
+shopmaster@chobi-glass.com
+http://chobi-glass.com/Unity/index.html
+
+(Notice.)
+Please backup your project files before importing the update.
+Most of the files will be overwritten. 
+
+
+*** Overview of Ver.1.8 ***
+[Addition]
+T-35 multiple turrets tank.
+New terrain and scenes.
+New options for realistic behavior.
+New options for battle with AI.
+New explosion prefabs.
+
+[Change]
+Target Marker system.
+Recoil system. ("Recoil_Generator" has been abolished.)
+Lights settings. (Lights in the tank have been removed.)
+"Time Scale" and "Gravity" in the sample scene.
+The displaying method of Gun Camera.
+The image of "CrossHair".
+Engine sound system.
+
+[Improvement]
+Mesh having multiple materials can be used for MainBody, Turret, Cannon and Barrel.
+AI can change the target according to the situation.
+
+
+*** How to update old tanks (from Ver.1.7 to Ver.1.8) ***
+
+(1) Replace the "CrossHair" in the tank.
+    Delete the old "CrossHair" in the tank, and attach the new "CrossHair" in the "Template" folder to the tank.
+    (Notice.)
+    Make sure that the "CrossHair" is placed just under the top object.
+   
+
+(2) Set the "Marker Prefab" in the "Turret_Base".
+    You can find the prefab named "Marker_01" in the "Template" folder.
+    Drag and drop it to the "Marker Prefab"  in the "Turret_Base".
+   
+
+(3) Set the "Recoil Force" in the "Cannon_Base".
+   
+
+(4) Remove the "Recoil_Generator" in the tank.
+    Delete the "Recoil_Generator" under the "Cannon_Base".
+   
+
+(5) Remove the Lights in the tank.
+    Delete the Lights under the "Look_At_Point".
+    
+    (Notice.) Please set more than one the light in the scene.
+
+(6) Engine sound settings.
+    The calculation method of the engine sound has been changed in Ver.1.8.
+    When the tank has physics tracks, adjust the "Max Speed" value of the "Sound_Control_CS" in the "Create_###Wheel".
+   
+
+(7) Driving behavior settings.
+    New options are added for the realistic behavior.
+    When the tank turns too easily or hardly, adjust the following values of the "Drive_Control_CS" in the "MainBody"
+   
+    [Lost Brake Drag Rate]
+    The rate that the "Turn Brake Drag" is reduced when the tank runs at maximum speed.
+    (Notice.)
+    "Turn Brake Drag" is reduced in proportion to the tank speed by this script.
+    When the tank turns too easily, decrease this value.
+
+    [Lost Speed Rate]
+    The rate that the tank speed is reduced per second while the tank is turning using turn brake.
+    (Notice.)
+    The speed of the tank is reduced while doing brake turn by this script.
+    When the tank turns too slowly, decrease this value.
+
+(8) Other settings.
+    In the new sample scenes, the "Time Scale" value is set to "1.0", and "Gravity" value is set to "-9.81".
+    If you need, increase the "Sus Spring Force" value in the "Create_RoadWheel".
+
+
+*** How to update old scene (from Ver.1.7 to Ver.1.8) ***
+
+(1) Set the Lights in the scene.
+    You can find the prefab named "Sample_Lights" in the "Template" folder.
+    Set it in the scene, and modify their settings as you will.
+
+

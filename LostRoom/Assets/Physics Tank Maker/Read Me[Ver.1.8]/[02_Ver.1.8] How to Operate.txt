@@ -1,0 +1,175 @@
+You can also read the online manual in my website.
+http://chobi-glass.com/Physics_Tank_Maker_manual/index.html
+
+"How to Operate"
+
+Please feel free to contact me if you have any questions.
+shopmaster@chobi-glass.com
+http://chobi-glass.com/Unity/index.html
+
+
+[ Mouse + KeyBoard ( Default ) ]
+(1) Speed Up / Down / Stop
+    "W" / "S" / "X"
+
+(2) Turn
+    "Q" / "E" (Gentle Turn)
+    "A" / "D" (Brake Turn)
+    "Z" / "C" (Pivot Turn)
+
+(3) Camera Rotation
+    "Right Mouse Drag"
+
+(4) Camera Zoom
+    "Right Mouse Button" + "Mouse Wheel"
+
+(4) Lock-On / Release
+    "Middle Mouse Button" / "Left Shift"
+
+(5) Fire
+    "Left Mouse Button"
+
+(6) Aiming Adjust
+    "Space" + Mouse Moving
+ 
+(7) Gun Camera
+    "R" (Small / Full / Off)
+    "Mouse Wheel" (Zoom)
+    "F" + "Mouse Wheel" (Adjust Vertical)
+
+(8) Switch Bullet
+    "V"  (AP / HE)
+
+(9) Change Tank
+    "0 1 2 3 4 5 6 7 8 9"
+
+(10) Reset / Respawn
+    "Back Space" / "Enter(Return)"
+
+
+[ KeyBoard ( KeyBoard Only ) ]
+(1) Drive
+    "Arrow keys"
+
+(2) Turret and Cannon
+    "Z" + "Arrow keys"
+
+(3) Camera Rotation
+    "W A S D"
+
+(4) Camera Zoom
+    "E" / "R"
+
+(5) Fire
+    "X"
+   
+(6) Gun Camera
+    "Q" (Small / Full / Off)
+    "C" + "Arrow Up/Down" (Adjust Vertical)
+    "C" + "Arrow Left/Right" (Zoom)
+
+(7) Switch Bullet
+    "V"  (HE / AP)
+
+(8) Change Tank
+    "0 1 2 3 4 5 6 7 8 9"
+
+(9) Reset / Respawn
+    "Back Space" / "Enter(Return)"
+
+
+[ GamePad ( Stick operation ) ]
+(1) Drive
+    "Left Stick"
+
+(2) Turret and Cannon
+    "L Button" + "Right Stick"
+
+(3) Camera Rotation
+    "Right Stick"
+
+(4) Camera Zoom
+    "X Button" / "A Button"
+
+(5) Fire
+    "R Button"
+
+(6) Gun Camera
+    "B Button" (Small / Full / Off)
+    "Y Button" + "Left Stick Up/Down" (Adjust Vertical)
+    "Y Button" + "Left Stick Left/Right" (Zoom)
+
+(7) Switch Bullet
+    "V"  (HE / AP)
+
+(8) Change Tank
+    "0 1 2 3 4 5 6 7 8 9"
+
+(9) Reset / Respawn
+    "Back Space" / "Enter(Return)"
+
+
+[ GamePad ( Trigger operation ) ]
+(1) Drive
+    "Left Trigger", "Right Trigger" (Forward)
+    "R Button", "L Button" (Backward)
+
+(2) Turret and Cannon
+    "Left Stick"
+
+(3) Camera Rotation
+    "Right Stick"
+
+(4) Camera Zoom
+    "A Button" + "Left Stick Up/Down"
+
+(5) Fire
+    "X Button"
+
+(6) Gun Camera
+    "B Button" (Small / Full / Off)
+    "Y Button" + "Left Stick Up/Down" (Adjust Vertical)
+    "Y Button" + "Left Stick Left/Right" (Zoom)
+
+(7) Switch Bullet
+    "V"  (HE / AP)
+
+(8) Change Tank
+    "0 1 2 3 4 5 6 7 8 9"
+
+(9) Reset / Respawn
+    "Back Space" / "Enter(Return)"
+
+
+[ GamePad ( Stick + Trigger operation ) ]
+(1) Drive
+    "Right Trigger" (forward)
+    "Left Trigger" (backward)
+    "Left Stick" (Steering)
+
+(2) Turret and Cannon
+    "L Button" + "Right Stick"
+
+(3) Camera Rotation
+    "Right Stick"
+
+(4) Camera Zoom
+    "X Button" / "A Button"
+
+(5) Fire
+    "R Button"
+
+(6) Gun Camera
+    "B Button" (Small / Full / Off)
+    "Y Button" + "Left Stick Up/Down" (Adjust Vertical)
+    "Y Button" + "Left Stick Left/Right" (Zoom)
+
+(7) Switch Bullet
+    "V"  (HE / AP)
+
+(8) Change Tank
+    "0 1 2 3 4 5 6 7 8 9"
+
+(9) Reset / Respawn
+    "Back Space" / "Enter(Return)"
+

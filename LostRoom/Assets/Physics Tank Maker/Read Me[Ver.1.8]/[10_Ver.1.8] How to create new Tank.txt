@@ -1,0 +1,13 @@
+
+"How to create new Tank"
+
+Please feel free to contact me if you have any questions.
+shopmaster@chobi-glass.com
+http://chobi-glass.com/Unity/index.html
+
+
+(Outline)
+You can start making a tank from scratch, but it is easier to remodel the sample tank having similar structure.
+The on-line tutorial shows how to make "Sherman Fireflly" using the sample tank "KV-I" as the base.
+Please read the on-line manual in my website.
+http://chobi-glass.com/Physics_Tank_Maker_manual/index.html
